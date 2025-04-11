@@ -1,6 +1,6 @@
 # Declare Global variables
 import os
-
+# BANKING SYSTEM
 balance = 0
 
 transaction_file = open("TransactionLog.txt", "w")
